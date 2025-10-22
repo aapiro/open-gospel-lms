@@ -26,22 +26,7 @@ Brindar una aplicación base que permita ofrecer cursos cristianos online a trav
 
 ## 🧭 Estructura de carpetas
 
-'''
-src/
-├─ components/ → Componentes reutilizables (UI, Navbar, Sidebar, etc.)
-├─ pages/ → Vistas de cada tipo de usuario
-│ ├─ public/
-│ ├─ student/
-│ ├─ teacher/
-│ ├─ admin/
-│ └─ tech/
-├─ layouts/ → Layouts generales (público y dashboards)
-├─ routes/ → Configuración de rutas principales
-├─ data/ → Archivos JSON simulando datos del backend
-├─ hooks/ → Hooks personalizados (auth, fetch, etc.)
-├─ utils/ → Funciones auxiliares (formateo, métricas, etc.)
-└─ main.jsx → Punto de entrada de la app
-'''
+<pre> ```bash src/ ├─ components/ → Componentes reutilizables (UI, Navbar, Sidebar, etc.) ├─ pages/ → Vistas de cada tipo de usuario │ ├─ public/ │ ├─ student/ │ ├─ teacher/ │ ├─ admin/ │ └─ tech/ ├─ layouts/ → Layouts generales (público y dashboards) ├─ routes/ → Configuración de rutas principales ├─ data/ → Archivos JSON simulando datos del backend ├─ hooks/ → Hooks personalizados (auth, fetch, etc.) ├─ utils/ → Funciones auxiliares (formateo, métricas, etc.) └─ main.jsx → Punto de entrada de la app ``` </pre>
 
 ---
 
