@@ -26,6 +26,7 @@ Brindar una aplicación base que permita ofrecer cursos cristianos online a trav
 
 ## 🧭 Estructura de carpetas
 
+'''
 src/
 ├─ components/ → Componentes reutilizables (UI, Navbar, Sidebar, etc.)
 ├─ pages/ → Vistas de cada tipo de usuario
@@ -40,6 +41,7 @@ src/
 ├─ hooks/ → Hooks personalizados (auth, fetch, etc.)
 ├─ utils/ → Funciones auxiliares (formateo, métricas, etc.)
 └─ main.jsx → Punto de entrada de la app
+'''
 
 ---
 
